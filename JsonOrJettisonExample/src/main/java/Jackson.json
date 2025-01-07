@@ -1,0 +1,11 @@
+{
+  "firstName" : "Rahul",
+  "lastName" : "Sosa",
+  "age" : 24,
+  "address" : {
+    "street" : "xyz",
+    "city" : "Ahm",
+    "state" : "guj",
+    "zipCode" : "343433"
+  }
+}

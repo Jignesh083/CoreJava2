@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+            "courseName": "Computer Science 101",
+            "credits": 3,
+            "courseId": "CS101"
+        },
+        {
+            "courseName": "Calculus II",
+            "credits": 4,
+            "courseId": "MATH202"
+        }
+    ],
+    "address": {
+        "zipcode": "10001",
+        "city": "New York",
+        "street": "123 Main St",
+        "state": "NY"
+    },
+    "name": "John Doe",
+    "id": 1,
+    "isActive": true,
+    "age": 21,
+    "email": "johndoe@example.com"
+}
